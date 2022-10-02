@@ -1,0 +1,152 @@
+body{
+	text-align: center;
+	font-family:Gilroy, Arial, sans-serif;
+	font-weight:normal;
+	background-color: #E7E7E7;
+}
+h1{
+	text-align: center;
+	padding-top: 15px;
+}
+
+h1#service{
+	padding-right: 600px;
+}
+h1#works{
+	padding-right: 400px;
+}
+h1#partners{
+	padding-right: 480px;
+}
+h1#feedback{
+	padding-right: 600px;
+}
+#arguments{
+	padding-right: 200px;
+	/*background: black;*/
+}
+#getscore{
+	margin-top:250px;
+	vertical-align: 50%;
+	background: #FFE360;
+	color: black;
+	border-radius:20px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-width: 0px;
+}
+div.header{
+	background: #1B8680;
+	background-image: url(img/headerimg_compressed.jpg);
+	width: 100%;
+	height: 400px;
+	background-position: center;
+	background-attachment: scroll; 
+	background-repeat: no-repeat;
+}
+div.second{
+	background: white;
+	background-image: url(img/img2_compressed.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 400px;
+	width: 100%;
+	background-attachment: scroll ;
+}
+#getscore2{
+/*margin-top:250px;*/
+/*vertical-align: 50%;*/
+background: #FFE360;
+color: black;
+border-radius:20px;
+padding-left: 25px;
+padding-right: 25px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-width: 0px;
+}
+
+li{
+	display: inline-table;
+	width: 170px;
+	margin-top:50px ;
+	margin-left: 15px;
+	margin-right: 45px;
+}
+
+div.third{
+	background: #ABDBC5;
+}
+div .pulish{
+	margin: 0 auto;
+}
+.publish li{
+	display: block;
+	width: 80%;
+	matgin: 0 auto;
+}
+table{
+	margin: 10px auto;
+}
+p#steps{
+	text-align: left;
+	margin-left: 50px;
+	text-align: left;
+	font-size: 40px;
+	font-weight: bolder;  
+}
+ul.steps li{
+	background: white;
+	display: inline-block ;
+	width: 10%;
+}
+div#steps table tr td{
+	padding: 0px 30px;
+}
+ul.publish li{
+	display: inline-block;
+}
+p.table{
+	text-align: left;
+	padding: 0px 80px;
+}
+div#peoples{
+	background-image: url(img/people_with_books.jpg);
+	width: 100%;
+	height: 600px;
+	margin: 0px auto;
+	background-position: center;
+	background-attachment: scroll; 
+	background-repeat: no-repeat;
+}
+div#peoples table{
+	margin: 0px auto;
+width: 730px;
+text-align: left;
+}
+footer{
+	background: #0D6F67;
+	color: white;
+	text-align: left;
+}
+footer table{
+	border-spacing: 100px 11px;
+}
+div#feedback{
+	background-image: url(img/books_on_wall.jpg);
+	width: 100%;
+	height: 500px;
+}
+div#last{
+	background: white;
+	padding-top: 40px;
+	margin: 0px auto;
+	width: 600px;
+	height: 300px;
+}
+#imgcircle{
+	padding-left:35px;
+	padding-top:20px ;
+}
